@@ -2,18 +2,31 @@
 ### scripts and file structure for projects
 modified based on the breezy philosophy: github.com/benscarlson/breezy
 
-## Goals:
+## file structure
+project folder: 
+* Rproj file
+* README
+* data - input folder
+* analysis - output folder
+* src - source code
+  * funs - functions
+  * poc - proof of concept
+  * workflow - final workflow
+
+
+# README TEMPLATE
+## goals:
 description...
 * goal 1
 
-## To do:
+## to do:
 * task 1
 
-## Activity log:
+## activity log:
 
-|Date|Activity|
+|date|activity|
 |:-|:------------|
 |2021-01-01|progress update|
 
-## Notes
+## notes
 * note 1
